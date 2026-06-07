@@ -26,7 +26,7 @@ Date:   Feb 2026
     test: qualify GATE DA 2026 — partial pass
 
     - score: 27 / qualified
-    - retry scheduled: 2027, target sub-1000 rank
+    - retry scheduled: 2027,
     - NOTE: non-negotiable
 
 commit a2e9f83

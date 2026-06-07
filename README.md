@@ -114,7 +114,7 @@ OPTIONS
 
        --gate
               GATE DA 2026: Qualified (Score: 27)
-              GATE DA 2027: Sub-1000 rank target [NON-NEGOTIABLE]
+              
 
        --cgpa 8.67 / 10.0
 
@@ -150,7 +150,6 @@ BUGS
        - Commits at 2am when the problem is "almost solved"
        - Frequently underestimates time required for "one small fix"
        - Cannot walk past an interesting geospatial dataset without forking
-       - Simultaneously preparing GATE, shipping projects, writing papers
 
 ENVIRONMENT
        LOCATION     Andhra Pradesh, India

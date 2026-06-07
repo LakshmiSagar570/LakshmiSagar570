@@ -17,7 +17,7 @@ Date:   Now
 
     - multi-agent autonomous engineering platform (FastAPI + Groq LLaMA 3.3)
     - XGBoost-based network anomaly detector with SHAP explainability
-    - TODO: 30+ LPA role, geospatial research collab, OSS contributions
+    - TODO:  geospatial research collab, OSS contributions
 
 commit b7c1d4f
 Author: GATE Committee <da@iitb.ac.in>
@@ -63,7 +63,7 @@ Date:   2010–2022
 
 commit 0a1b2c3
 Author: Universe <cosmos@existence.io>
-Date:   2004
+Date:   2006
 
     feat: initial commit — add Lakshmi Sagar Seshadri
 

@@ -23,7 +23,7 @@ commit b7c1d4f
 Author: GATE Committee <da@iitb.ac.in>
 Date:   Feb 2026
 
-    test: qualify GATE DA 2026 — partial pass
+    test: qualify GATE DA 2026 — AIR 9277
 
     - score: 27 / qualified
     - retry scheduled: 2027,
@@ -93,10 +93,10 @@ SYNOPSIS
              [--domain geospatial-ai | ml-systems | satellite-imagery]
              [--stack python | fastapi | nextjs | xgboost | gee | gdal]
              [--available internship | research | full-time]
-             [--target 30lpa+]
+             
 
 DESCRIPTION
-       Sagar is a third-year B.Tech CSE (AI/ML) student at MITS and a
+       Sagar is a fourth-year B.Tech CSE (AI/ML) student at MITS and a
        published ML researcher in the Springer LNNS series. He builds
        systems at the intersection of satellite Earth observation and
        machine learning — the kind of work that turns raw spectral bands

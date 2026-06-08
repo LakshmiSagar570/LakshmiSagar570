@@ -10,7 +10,7 @@
 
 ```
 commit f3a9d2e (HEAD -> main, origin/main)
-Author: Sagar <lakshmisagar570@github.com>
+Author: Lakshmi Sagar <lakshmisagar570@github.com>
 Date:   Now
 
     wip: shipping PatchPilot + DNS Tunneling Detector
@@ -20,12 +20,12 @@ Date:   Now
     - TODO:  geospatial research collab, OSS contributions
 
 commit b7c1d4f
-Author: GATE Committee <da@iitb.ac.in>
+Author: GATE Committee 
 Date:   Feb 2026
 
     test: qualify GATE DA 2026 — AIR 9277
 
-    - score: 27 / qualified
+    - status: qualified
     - retry scheduled: 2027,
     - NOTE: non-negotiable
 

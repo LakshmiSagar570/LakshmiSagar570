@@ -1,6 +1,5 @@
-# Project overviews — code-only public repos (excluding DSA & NVIDIA), summary notes
-
-I inspected each public repository in your account that contains code (excluded LC and NVIDIA-COURSES and repos with no code). For each repo below I read top-level entries and representative code or manifest files and produced a short evidence-backed overview: What this is, Stack, How it's organized (top-level tree), How it fits together, How to run (shortest path inferred from manifests), and three targeted "Try asking" follow-ups you can use to clarify or expand the implementation. If you want, I can commit this Markdown to a repo or produce separate files per repo — say where and I'll push.
+# Project overviews — code-only public repos 
+I inspected each public repository in your account that contains code. For each repo below I read top-level entries and representative code or manifest files and produced a short evidence-backed overview: What this is, Stack, How it's organized (top-level tree), How it fits together, How to run (shortest path inferred from manifests), and three targeted "Try asking" follow-ups you can use to clarify or expand the implementation. If you want, I can commit this Markdown to a repo or produce separate files per repo — say where and I'll push.
 
 ---
 

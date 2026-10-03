@@ -1,150 +1,131 @@
-<!-- LakshmiSagar570/LakshmiSagar570 — Profile README -->
+# Lakshmi Sagar Seshadri
 
 <div align="center">
 
-## `$ git log --oneline --graph -n 6`
+### AI/ML Engineer • Researcher • Builder
+
+Building practical systems across **ML, LLMs, backend engineering, and developer tooling**.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-lakshmisagarportfolio.vercel.app-111111?style=flat-square&logo=vercel&logoColor=white)](https://lakshmisagarportfolio.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lakshmi%20Sagar-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lakshmi-sagar-seshadri-9295812b4/)
+[![GitHub](https://img.shields.io/badge/GitHub-LakshmiSagar570-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/LakshmiSagar570)
 
 </div>
 
 ---
 
-```
-commit f3a9d2e (HEAD -> main, origin/main)
-Author: Lakshmi Sagar <lakshmisagar570@github.com>
-Date:   Now
+## `whoami`
 
-    wip: shipping PatchPilot + DNS Tunneling Detector
+```text
+Computer Science & Engineering (AI/ML)
+MITS, Madanapalle
 
-    - multi-agent autonomous engineering platform (FastAPI + Groq LLaMA 3.3)
-    - XGBoost-based network anomaly detector, ROC-AUC 0.9992
-    - TODO: compress detector for constrained/edge hardware
+I like building systems that move from:
+idea → implementation → testing → deployment
 
-commit b7c1d4f
-Author: Lakshmi Sagar <lakshmisagar570@github.com>
-Date:   2026
-
-    feat: qualify GATE DA 2026 (AIR 9277)
-
-commit a2e9f83
-Author: Springer <submissions@lnns.springer.com>
-Date:   2025
-
-    feat(research): paper accepted — ICTIS 2026, Bangkok
-
-    - Title: A Review on Large Language Models in Engineering
-    - Venue: Springer LNNS, oral presentation, Paper ID 1235
-    - Side effect: 2 more manuscripts now under peer review
-
-commit 9c3b7a1
-Author: MITS Admissions <admissions@mits.ac.in>
-Date:   Aug 2023
-
-    feat: enroll B.Tech CSE (AI/ML) at MITS, Madanapalle
-
-    - CGPA holding at 8.67
-    - began building systems that cross disciplinary lines
-
-commit 0a1b2c3
-Author: Lakshmi Sagar <lakshmisagar570@github.com>
-Date:   2006
-
-    init: add Lakshmi Sagar Seshadri
-
-    - location: Andhra Pradesh, India
+Current focus:
+• ML systems and model evaluation
+• LLM / RAG applications
+• developer tools and automation
+• research-oriented engineering
 ```
 
-<br/>
+## Tech Stack
+
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=111111)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111111)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+
+### AI / ML
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-EC4A3F?style=flat-square)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=111111)
+
+### Backend / Data
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=111111)
+![pgvector](https://img.shields.io/badge/pgvector-Postgres%20extension-316192?style=flat-square&logo=postgresql&logoColor=white)
+
+### Frontend / Infrastructure
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-111111?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
 ---
 
+## Current Work
+
+| Status | Project | What it is |
+|:---:|---|---|
+| 🟢 | **SAGE** | Supersession-aware graph engine for temporal reasoning, contradiction handling, authority inference, and evidence-backed resolution |
+| 🟢 | **DNS Tunneling Detector** | FastAPI service using XGBoost + RandomForest for network anomaly detection |
+| 🟢 | **PatchPilot** | Developer tooling concept around autonomous engineering, test repair, and CI/CD log analysis |
+| 🟢 | **TrustRAG-SC** | Retrieval workflow with embeddings, PostgreSQL/pgvector, and verification-oriented components |
+| 🟡 | **ETHOSFORGE** | Adaptive fraud-detection research exploring federated learning and decision-aware ML |
+| 🟡 | **LLM / RAG Experiments** | Research and prototypes around local inference, retrieval, agents, and evaluation |
+
+> 🟢 **Active / building** &nbsp;&nbsp; 🟡 **Exploring / iterating** &nbsp;&nbsp; 🔴 **Blocked / needs attention**
+
+---
+
+## A few things I've built
+
+### 🔴 Problem → 🟢 System
+
+- **DNS Tunneling Detection**  
+  Network telemetry → feature engineering → ensemble ML → FastAPI inference
+
+- **Mood Journal**  
+  Angular frontend → ASP.NET Core API → database → authentication → insights/dashboard
+
+- **SAGE**  
+  Source ingestion → temporal reasoning → contradiction detection → authority inference → resolution → graph/evidence output
+
+- **Research Assistant**  
+  Search → retrieval → structured reasoning → citation verification
+
+---
+
+## Research
+
+Working at the intersection of **machine learning, LLM systems, retrieval, and reliable AI pipelines**.
+
+Recent areas of interest:
+
+`RAG` · `Agents` · `Temporal reasoning` · `Graph-based AI` · `Fraud detection` · `Model evaluation` · `LLM inference`
+
+---
+
+## GitHub Snapshot
+
 <div align="center">
 
-## `$ man sagar`
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LakshmiSagar570&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LakshmiSagar570&layout=compact&theme=github_dark&hide_border=true&langs_count=8&hide=jupyter%20notebook)
 
 </div>
 
-```
-SAGAR(1)                    Reference Manual                    SAGAR(1)
-
-NAME
-       sagar — ML systems engineer, published researcher
-
-SYNOPSIS
-       sagar [--role researcher | engineer | collaborator]
-             [--stack python | fastapi | nextjs | xgboost | gee | gdal]
-             [--available internship | research | full-time]
-
-DESCRIPTION
-       Fourth-year B.Tech CSE (AI/ML) student at MITS, and a published
-       ML researcher in the Springer LNNS series. Builds end-to-end
-       systems rather than stopping at the prototype — reads papers
-       and writes code in the same sitting.
-
-OPTIONS
-       --publication
-           "A Review on Large Language Models in Engineering"
-           Springer LNNS · ICTIS 2026, Bangkok · Oral Presentation
-           Paper ID: 1235
-
-       --cgpa 8.67 / 10.0
-
-       --stack
-           Core        Python, TypeScript, Go, Bash
-           AI/ML       XGBoost, PyTorch, scikit-learn, Groq LLaMA 3.3
-           Geospatial  Google Earth Engine, GDAL, Sentinel-2, Landsat-8
-           Backend     FastAPI, PostgreSQL, Supabase, pgvector
-           Frontend    Next.js, React, Three.js, Tailwind CSS
-           Infra       Docker, Vercel, Render, GitHub Actions
-
-       --projects
-           DNS Sentinel   Network anomaly detection, ensemble ML
-                          XGBoost + RandomForest · ROC-AUC 0.9992
-
-           PatchPilot     Multi-agent autonomous engineering platform
-                          Self-healing tests + CI/CD log analysis
-
-           LFAN           Lightweight CNN for ×4 super-resolution
-                          29.09 dB PSNR · 731K params · 78ms inference
-
-           AssumptionX    AI business idea stress-tester (live)
-                          assumption-x.vercel.app
-
-           KrishiMind     Crop intelligence for Indian agriculture
-                          XGBoost + Groq + FastAPI
-
-BUGS
-       - Commits at 2am when the problem is "almost solved"
-       - Frequently underestimates time required for "one small fix"
-
-ENVIRONMENT
-       LOCATION       Andhra Pradesh, India
-       TIMEZONE       IST (UTC+5:30)
-       INSTITUTION    MITS, Madanapalle · Batch 2023–2027
-
-SEE ALSO
-       portfolio(1) → lakshmisagar570.github.io/Portfolio
-       linkedin(1)  → linkedin.com/in/lakshmi-sagar-seshadri-9295812b4
-       leetcode(1)  → leetcode.com/u/qNpie0dryO
-       live(1)      → assumption-x.vercel.app
-
-AUTHOR
-       Lakshmi Sagar Seshadri <github.com/LakshmiSagar570>
-
-MITS 2023–2027                                                  SAGAR(1)
-```
-
-<br/>
-
 ---
+
+## Connect
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LakshmiSagar570&show_icons=true&theme=github_dark&bg_color=0d1117&title_color=f59e0b&text_color=c9d1d9&icon_color=4fc3f7&border_color=1e3a5f&count_private=true&include_all_commits=true)
-&nbsp;&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LakshmiSagar570&layout=compact&theme=github_dark&bg_color=0d1117&title_color=f59e0b&text_color=c9d1d9&border_color=1e3a5f&langs_count=7&hide=jupyter%20notebook)
-
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LakshmiSagar570&theme=github_dark)
-
-![Profile Views](https://komarev.com/ghpvc/?username=LakshmiSagar570&style=flat-square&color=1e3a5f&label=profile+views)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://lakshmisagarportfolio.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lakshmi-sagar-seshadri-9295812b4/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LakshmiSagar570)
 
 </div>

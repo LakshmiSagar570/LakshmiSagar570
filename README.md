@@ -2,130 +2,195 @@
 
 <div align="center">
 
-### AI/ML Engineer • Researcher • Builder
+<pre>
+lakshmi@sagar:~$ neofetch
 
-Building practical systems across **ML, LLMs, backend engineering, and developer tooling**.
+        ██╗      ███████╗
+        ██║      ██╔════╝
+        ██║      ███████╗
+        ██║      ╚════██║
+        ███████╗ ███████║
+        ╚══════╝ ╚══════╝
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-lakshmisagarportfolio.vercel.app-111111?style=flat-square&logo=vercel&logoColor=white)](https://lakshmisagarportfolio.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lakshmi%20Sagar-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lakshmi-sagar-seshadri-9295812b4/)
-[![GitHub](https://img.shields.io/badge/GitHub-LakshmiSagar570-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/LakshmiSagar570)
+  Lakshmi Sagar Seshadri
+  -----------------------
+  role       : AI/ML Engineer • Researcher • Developer
+  education  : B.Tech CSE (AI/ML) • MITS
+  focus      : ML Systems • LLMs • RAG • Developer Tools
+  shell      : Python • TypeScript • Bash
+  workflow   : Build → Test → Evaluate → Deploy
+</pre>
 
 </div>
 
 ---
 
-## `whoami`
+## `~/about.txt`
 
-```text
-Computer Science & Engineering (AI/ML)
-MITS, Madanapalle
+~~~text
+I build software at the intersection of machine learning,
+backend engineering, LLM systems and developer tooling.
 
-I like building systems that move from:
-idea → implementation → testing → deployment
+I prefer systems that can be implemented, tested, measured
+and deployed — not just prototypes that stop at a notebook.
 
 Current focus:
-• ML systems and model evaluation
-• LLM / RAG applications
-• developer tools and automation
-• research-oriented engineering
-```
+  ML systems
+  LLM / RAG pipelines
+  graph reasoning
+  model evaluation
+  developer automation
+~~~
 
-## Tech Stack
+---
+
+## `~/skills`
 
 ### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=111111)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111111)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+
+<p>
+<img src="https://cdn.simpleicons.org/python" height="30" alt="Python">
+<img src="https://cdn.simpleicons.org/typescript" height="30" alt="TypeScript">
+<img src="https://cdn.simpleicons.org/javascript" height="30" alt="JavaScript">
+<img src="https://cdn.simpleicons.org/java" height="30" alt="Java">
+<img src="https://cdn.simpleicons.org/c" height="30" alt="C">
+<img src="https://cdn.simpleicons.org/csharp" height="30" alt="C#">
+<img src="https://cdn.simpleicons.org/postgresql" height="30" alt="SQL">
+</p>
 
 ### AI / ML
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-EC4A3F?style=flat-square)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=111111)
 
-### Backend / Data
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=111111)
-![pgvector](https://img.shields.io/badge/pgvector-Postgres%20extension-316192?style=flat-square&logo=postgresql&logoColor=white)
+<p>
+<img src="https://cdn.simpleicons.org/pytorch" height="30" alt="PyTorch">
+<img src="https://cdn.simpleicons.org/tensorflow" height="30" alt="TensorFlow">
+<img src="https://cdn.simpleicons.org/scikitlearn" height="30" alt="scikit-learn">
+<img src="https://cdn.simpleicons.org/xgboost" height="30" alt="XGBoost">
+<img src="https://cdn.simpleicons.org/huggingface" height="30" alt="Hugging Face">
+</p>
 
-### Frontend / Infrastructure
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-111111?style=flat-square&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+### Frameworks / Backend
 
----
+<p>
+<img src="https://cdn.simpleicons.org/fastapi" height="30" alt="FastAPI">
+<img src="https://cdn.simpleicons.org/dotnet" height="30" alt="ASP.NET Core">
+<img src="https://cdn.simpleicons.org/react" height="30" alt="React">
+<img src="https://cdn.simpleicons.org/angular" height="30" alt="Angular">
+<img src="https://cdn.simpleicons.org/nextdotjs" height="30" alt="Next.js">
+<img src="https://cdn.simpleicons.org/tailwindcss" height="30" alt="Tailwind CSS">
+</p>
 
-## Current Work
+### Databases / Data
 
-| Status | Project | What it is |
-|:---:|---|---|
-| 🟢 | **SAGE** | Supersession-aware graph engine for temporal reasoning, contradiction handling, authority inference, and evidence-backed resolution |
-| 🟢 | **DNS Tunneling Detector** | FastAPI service using XGBoost + RandomForest for network anomaly detection |
-| 🟢 | **PatchPilot** | Developer tooling concept around autonomous engineering, test repair, and CI/CD log analysis |
-| 🟢 | **TrustRAG-SC** | Retrieval workflow with embeddings, PostgreSQL/pgvector, and verification-oriented components |
-| 🟡 | **ETHOSFORGE** | Adaptive fraud-detection research exploring federated learning and decision-aware ML |
-| 🟡 | **LLM / RAG Experiments** | Research and prototypes around local inference, retrieval, agents, and evaluation |
+<p>
+<img src="https://cdn.simpleicons.org/postgresql" height="30" alt="PostgreSQL">
+<img src="https://cdn.simpleicons.org/supabase" height="30" alt="Supabase">
+<img src="https://cdn.simpleicons.org/microsoftsqlserver" height="30" alt="SQL Server">
+</p>
 
-> 🟢 **Active / building** &nbsp;&nbsp; 🟡 **Exploring / iterating** &nbsp;&nbsp; 🔴 **Blocked / needs attention**
+### Infrastructure / Tools
 
----
-
-## A few things I've built
-
-### 🔴 Problem → 🟢 System
-
-- **DNS Tunneling Detection**  
-  Network telemetry → feature engineering → ensemble ML → FastAPI inference
-
-- **Mood Journal**  
-  Angular frontend → ASP.NET Core API → database → authentication → insights/dashboard
-
-- **SAGE**  
-  Source ingestion → temporal reasoning → contradiction detection → authority inference → resolution → graph/evidence output
-
-- **Research Assistant**  
-  Search → retrieval → structured reasoning → citation verification
+<p>
+<img src="https://cdn.simpleicons.org/docker" height="30" alt="Docker">
+<img src="https://cdn.simpleicons.org/git" height="30" alt="Git">
+<img src="https://cdn.simpleicons.org/github" height="30" alt="GitHub">
+<img src="https://cdn.simpleicons.org/githubactions" height="30" alt="GitHub Actions">
+<img src="https://cdn.simpleicons.org/linux" height="30" alt="Linux">
+<img src="https://cdn.simpleicons.org/vercel" height="30" alt="Vercel">
+</p>
 
 ---
 
-## Research
+## `./system-check.sh`
 
-Working at the intersection of **machine learning, LLM systems, retrieval, and reliable AI pipelines**.
-
-Recent areas of interest:
-
-`RAG` · `Agents` · `Temporal reasoning` · `Graph-based AI` · `Fraud detection` · `Model evaluation` · `LLM inference`
-
----
-
-## GitHub Snapshot
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LakshmiSagar570&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LakshmiSagar570&layout=compact&theme=github_dark&hide_border=true&langs_count=8&hide=jupyter%20notebook)
-
-</div>
+<table>
+<tr><td><span style="color:#2ea043"><b>[ OK ]</b></span></td><td><b>DNS Tunneling Detector</b></td><td>FastAPI + XGBoost + RandomForest anomaly detection</td></tr>
+<tr><td><span style="color:#d29922"><b>[ BUILDING ]</b></span></td><td><b>SAGE</b></td><td>Supersession-aware graph reasoning and evidence resolution</td></tr>
+<tr><td><span style="color:#d29922"><b>[ BUILDING ]</b></span></td><td><b>TrustRAG-SC</b></td><td>Retrieval, embeddings, PostgreSQL/pgvector and verification</td></tr>
+<tr><td><span style="color:#d29922"><b>[ BUILDING ]</b></span></td><td><b>PatchPilot</b></td><td>Developer automation, test repair and CI/CD analysis</td></tr>
+<tr><td><span style="color:#d29922"><b>[ RESEARCH ]</b></span></td><td><b>ETHOSFORGE</b></td><td>Adaptive fraud detection and federated learning research</td></tr>
+<tr><td><span style="color:#2ea043"><b>[ OK ]</b></span></td><td><b>Mood Journal</b></td><td>Angular + ASP.NET Core application developed during internship</td></tr>
+</table>
 
 ---
 
-## Connect
+## `tree ~/projects`
 
-<div align="center">
+~~~text
+~/projects
+├── graph-ai/
+│   └── SAGE/
+│       ├── ingestion
+│       ├── temporal-reasoning
+│       ├── contradiction-detection
+│       ├── authority-inference
+│       └── resolution
+│
+├── security/
+│   └── DNS-Tunneling-Detector/
+│       ├── FastAPI
+│       ├── XGBoost
+│       └── RandomForest
+│
+├── llm-systems/
+│   ├── TrustRAG-SC/
+│   ├── Simple-RAG/
+│   └── Research-Assistant/
+│
+├── developer-tools/
+│   └── PatchPilot/
+│
+└── research/
+    └── ETHOSFORGE/
+~~~
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://lakshmisagarportfolio.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lakshmi-sagar-seshadri-9295812b4/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LakshmiSagar570)
+---
 
-</div>
+## `git status --focus`
+
+~~~text
+On branch research
+
+modified:
+  graph-reasoning/SAGE
+  llm-systems/TrustRAG-SC
+  developer-tools/PatchPilot
+  ml-research/ETHOSFORGE
+
+working on:
+  reliable AI pipelines
+  retrieval and verification
+  graph reasoning
+  model evaluation
+  developer automation
+~~~
+
+---
+
+## `cat ~/research.txt`
+
+~~~text
+Research areas
+
+  > Retrieval-Augmented Generation
+  > Graph-based reasoning
+  > Temporal information systems
+  > LLM evaluation
+  > Fraud detection
+  > Federated learning
+  > Local LLM inference
+  > Multi-agent engineering systems
+~~~
+
+---
+
+## `./connect.sh`
+
+<p align="center">
+<a href="https://lakshmisagarportfolio.vercel.app/"><img src="https://cdn.simpleicons.org/vercel" height="26" alt="Portfolio"></a>
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/lakshmi-sagar-seshadri-9295812b4/"><img src="https://cdn.simpleicons.org/linkedin" height="26" alt="LinkedIn"></a>
+&nbsp;&nbsp;
+<a href="https://github.com/LakshmiSagar570"><img src="https://cdn.simpleicons.org/github" height="26" alt="GitHub"></a>
+</p>
+
+<p align="center"><code>lakshmi@sagar:~$ exit</code></p>

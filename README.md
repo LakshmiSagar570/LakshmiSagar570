@@ -5,12 +5,14 @@
 <pre>
 lakshmi@sagar:~$ neofetch
 
-        ██╗      ███████╗
-        ██║      ██╔════╝
-        ██║      ███████╗
-        ██║      ╚════██║
-        ███████╗ ███████║
-        ╚══════╝ ╚══════╝
+      ╔══════════════════╗
+      ║  ██╗     ███████╗ ║
+      ║  ██║     ██╔════╝ ║
+      ║  ██║     ███████╗ ║
+      ║  ██║     ╚════██║ ║
+      ║  ███████╗███████║ ║
+      ║  ╚══════╝╚══════╝ ║
+      ╚══════════════════╝
 
   Lakshmi Sagar Seshadri
   -----------------------
@@ -27,7 +29,7 @@ lakshmi@sagar:~$ neofetch
 
 ## `~/about.txt`
 
-~~~text
+```text
 I build software at the intersection of machine learning,
 backend engineering, LLM systems and developer tooling.
 
@@ -40,7 +42,7 @@ Current focus:
   graph reasoning
   model evaluation
   developer automation
-~~~
+```
 
 ---
 
@@ -49,53 +51,53 @@ Current focus:
 ### Languages
 
 <p>
-<img src="https://cdn.simpleicons.org/python" height="30" alt="Python">
-<img src="https://cdn.simpleicons.org/typescript" height="30" alt="TypeScript">
-<img src="https://cdn.simpleicons.org/javascript" height="30" alt="JavaScript">
-<img src="https://cdn.simpleicons.org/java" height="30" alt="Java">
-<img src="https://cdn.simpleicons.org/c" height="30" alt="C">
-<img src="https://cdn.simpleicons.org/csharp" height="30" alt="C#">
-<img src="https://cdn.simpleicons.org/postgresql" height="30" alt="SQL">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="34" alt="Python" title="Python">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="34" alt="TypeScript" title="TypeScript">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="34" alt="JavaScript" title="JavaScript">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="34" alt="Java" title="Java">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="34" alt="C" title="C">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="34" alt="C#" title="C#">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="34" alt="SQL" title="SQL">
 </p>
 
 ### AI / ML
 
 <p>
-<img src="https://cdn.simpleicons.org/pytorch" height="30" alt="PyTorch">
-<img src="https://cdn.simpleicons.org/tensorflow" height="30" alt="TensorFlow">
-<img src="https://cdn.simpleicons.org/scikitlearn" height="30" alt="scikit-learn">
-<img src="https://cdn.simpleicons.org/xgboost" height="30" alt="XGBoost">
-<img src="https://cdn.simpleicons.org/huggingface" height="30" alt="Hugging Face">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="34" alt="PyTorch" title="PyTorch">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="34" alt="TensorFlow" title="TensorFlow">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="34" alt="scikit-learn" title="scikit-learn">
+<img src="https://img.shields.io/badge/XGBoost-0D1117?style=flat-square&logo=xgboost&logoColor=F7931E" height="34" alt="XGBoost" title="XGBoost">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/huggingface/huggingface-original.svg" height="34" alt="Hugging Face" title="Hugging Face">
 </p>
 
 ### Frameworks / Backend
 
 <p>
-<img src="https://cdn.simpleicons.org/fastapi" height="30" alt="FastAPI">
-<img src="https://cdn.simpleicons.org/dotnet" height="30" alt="ASP.NET Core">
-<img src="https://cdn.simpleicons.org/react" height="30" alt="React">
-<img src="https://cdn.simpleicons.org/angular" height="30" alt="Angular">
-<img src="https://cdn.simpleicons.org/nextdotjs" height="30" alt="Next.js">
-<img src="https://cdn.simpleicons.org/tailwindcss" height="30" alt="Tailwind CSS">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="34" alt="FastAPI" title="FastAPI">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="34" alt="ASP.NET Core" title="ASP.NET Core">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="34" alt="React" title="React">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="34" alt="Angular" title="Angular">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="34" alt="Next.js" title="Next.js">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="34" alt="Tailwind CSS" title="Tailwind CSS">
 </p>
 
 ### Databases / Data
 
 <p>
-<img src="https://cdn.simpleicons.org/postgresql" height="30" alt="PostgreSQL">
-<img src="https://cdn.simpleicons.org/supabase" height="30" alt="Supabase">
-<img src="https://cdn.simpleicons.org/microsoftsqlserver" height="30" alt="SQL Server">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="34" alt="PostgreSQL" title="PostgreSQL">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="34" alt="Supabase" title="Supabase">
+<img src="https://img.shields.io/badge/SQL%20Server-0D1117?style=flat-square&logo=microsoftsqlserver&logoColor=CC2927" height="34" alt="SQL Server" title="SQL Server">
 </p>
 
 ### Infrastructure / Tools
 
 <p>
-<img src="https://cdn.simpleicons.org/docker" height="30" alt="Docker">
-<img src="https://cdn.simpleicons.org/git" height="30" alt="Git">
-<img src="https://cdn.simpleicons.org/github" height="30" alt="GitHub">
-<img src="https://cdn.simpleicons.org/githubactions" height="30" alt="GitHub Actions">
-<img src="https://cdn.simpleicons.org/linux" height="30" alt="Linux">
-<img src="https://cdn.simpleicons.org/vercel" height="30" alt="Vercel">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="34" alt="Docker" title="Docker">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="34" alt="Git" title="Git">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="34" alt="GitHub" title="GitHub">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="34" alt="GitHub Actions" title="GitHub Actions">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="34" alt="Linux" title="Linux">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" height="34" alt="Vercel" title="Vercel">
 </p>
 
 ---
@@ -115,7 +117,7 @@ Current focus:
 
 ## `tree ~/projects`
 
-~~~text
+```text
 ~/projects
 ├── graph-ai/
 │   └── SAGE/
@@ -141,13 +143,13 @@ Current focus:
 │
 └── research/
     └── ETHOSFORGE/
-~~~
+```
 
 ---
 
 ## `git status --focus`
 
-~~~text
+```text
 On branch research
 
 modified:
@@ -162,13 +164,13 @@ working on:
   graph reasoning
   model evaluation
   developer automation
-~~~
+```
 
 ---
 
 ## `cat ~/research.txt`
 
-~~~text
+```text
 Research areas
 
   > Retrieval-Augmented Generation
@@ -179,18 +181,18 @@ Research areas
   > Federated learning
   > Local LLM inference
   > Multi-agent engineering systems
-~~~
+```
 
 ---
 
 ## `./connect.sh`
 
 <p align="center">
-<a href="https://lakshmisagarportfolio.vercel.app/"><img src="https://cdn.simpleicons.org/vercel" height="26" alt="Portfolio"></a>
-&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/lakshmi-sagar-seshadri-9295812b4/"><img src="https://cdn.simpleicons.org/linkedin" height="26" alt="LinkedIn"></a>
-&nbsp;&nbsp;
-<a href="https://github.com/LakshmiSagar570"><img src="https://cdn.simpleicons.org/github" height="26" alt="GitHub"></a>
+<a href="https://lakshmisagarportfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=flat-square&logo=vercel&logoColor=white" height="28" alt="Portfolio"></a>
+&nbsp;
+<a href="https://www.linkedin.com/in/lakshmi-sagar-seshadri-9295812b4/"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=0A66C2" height="28" alt="LinkedIn"></a>
+&nbsp;
+<a href="https://github.com/LakshmiSagar570"><img src="https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=white" height="28" alt="GitHub"></a>
 </p>
 
 <p align="center"><code>lakshmi@sagar:~$ exit</code></p>

@@ -69,12 +69,15 @@ Infra      : Linux, Docker, Git, GitHub Actions, Vercel
 
 | Project | Description | Stack |
 |---|---|---|
-| **SAGE** | Supersession-aware graph engine for temporal reasoning, contradiction detection, authority inference, and evidence resolution. | Python, Graph Systems |
-| **DNS Tunneling Detector** | Network security system for detecting DNS tunneling using machine learning models exposed through an API. | Python, FastAPI, XGBoost, Random Forest |
-| **TrustRAG-SC** | Retrieval and verification workflow using embeddings, PostgreSQL/pgvector, and evidence-aware processing. | Python, PostgreSQL, pgvector |
-| **Research Assistant** | Research workflow for search, retrieval, citation verification, and evidence-oriented analysis. | Python, LLMs, RAG |
-| **Mood Journal** | Full-stack web application developed during internship for mood tracking, history, insights, and analytics. | Angular, ASP.NET Core, SQL |
-
+| **SAGE** | Knowledge-graph reasoning system for temporal relationships, suppression semantics, provenance, and controlled analytical question answering. | Python, NLP, Knowledge Graphs |
+| **DNS Sentinel** | Real-time DNS tunneling detection platform using behavioral features and an ML ensemble for detecting covert DNS activity. | Python, FastAPI, XGBoost, Random Forest, PostgreSQL |
+| **Research Assistant** | Full-stack research workflow covering literature search, summarization, citation management, gap detection, and review generation. | Python, FastAPI, React, TypeScript |
+| **Mood Journal** | Full-stack application for daily mood logging, emotional pattern tracking, history, and analytics. | Angular, ASP.NET Core, SQL |
+| **CropGuard** | Crop health platform for disease detection, condition monitoring, analytics, and farmer-focused recommendations. | React, Node.js, Express, MongoDB |
+| **SoilTwin** | Digital-twin platform for soil analysis combining web interfaces, analytics, data processing, and machine learning. | Next.js, TypeScript, Python |
+| **LFAN** | Lightweight feature-attention network for efficient ×4 single-image super-resolution on DIV2K. | Python, Deep Learning, Computer Vision |
+| **AssumptionX** | AI-powered application for identifying and challenging hidden assumptions in ideas, plans, and decisions. | TypeScript, Next.js, React, Tailwind CSS |
+| **RagaAI Catalyst** | LLM project platform covering dataset management, evaluation, tracing, prompt management, synthetic data generation, and guardrails. | Python, LLMs, Evaluation, Tracing |
 ---
 
 ## Research Interests

@@ -3,7 +3,7 @@
 <div align="center">
 
 <pre>
-lakshmi@sagar:~$ neofetch
+lakshmisagar@seshadri:~$ neofetch
 
       ╔══════════════════╗
       ║  ██╗     ███████╗ ║
@@ -51,52 +51,52 @@ Engineering principles:
 ### Languages
 
 <p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="34" alt="Python" title="Python">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="34" alt="TypeScript" title="TypeScript">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="34" alt="JavaScript" title="JavaScript">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="34" alt="Java" title="Java">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="34" alt="C" title="C">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="34" alt="C#" title="C#">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" title="Python">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" title="TypeScript">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" title="JavaScript">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" title="Java">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" title="C">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#" title="C#">
 </p>
 
 ### AI / ML
 
 <p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="34" alt="PyTorch" title="PyTorch">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="34" alt="TensorFlow" title="TensorFlow">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="34" alt="scikit-learn" title="scikit-learn">
-<img src="https://img.shields.io/badge/XGBoost-0D1117?style=flat-square&logo=xgboost&logoColor=F7931E" height="34" alt="XGBoost" title="XGBoost">
-<img src="https://img.shields.io/badge/Hugging%20Face-0D1117?style=flat-square&logo=huggingface&logoColor=FFD21E" height="34" alt="Hugging Face" title="Hugging Face">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="PyTorch" title="PyTorch">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="TensorFlow" title="TensorFlow">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="40" alt="scikit-learn" title="scikit-learn">
+<img src="https://img.shields.io/badge/XGBoost-0D1117?style=flat-square&logo=xgboost&logoColor=F7931E" height="40" alt="XGBoost" title="XGBoost">
+<img src="https://img.shields.io/badge/Hugging%20Face-0D1117?style=flat-square&logo=huggingface&logoColor=FFD21E" height="40" alt="Hugging Face" title="Hugging Face">
 </p>
 
 ### Frameworks / Backend
 
 <p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="34" alt="FastAPI" title="FastAPI">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="34" alt="ASP.NET Core" title="ASP.NET Core">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="34" alt="React" title="React">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="34" alt="Angular" title="Angular">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="34" alt="Next.js" title="Next.js">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="34" alt="Tailwind CSS" title="Tailwind CSS">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="FastAPI" title="FastAPI">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="ASP.NET Core" title="ASP.NET Core">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" title="React">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="40" alt="Angular" title="Angular">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" title="Next.js">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="Tailwind CSS" title="Tailwind CSS">
 </p>
 
 ### Databases / Data
 
 <p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="34" alt="PostgreSQL" title="PostgreSQL">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="34" alt="Supabase" title="Supabase">
-<img src="https://img.shields.io/badge/SQL_Server-0D1117?style=flat-square&logo=microsoftsqlserver&logoColor=CC2927" height="34" alt="SQL Server" title="SQL Server">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" title="PostgreSQL">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="40" alt="Supabase" title="Supabase">
+<img src="https://img.shields.io/badge/SQL_Server-0D1117?style=flat-square&logo=microsoftsqlserver&logoColor=CC2927" height="40" alt="SQL Server" title="SQL Server">
 </p>
 
 ### Infrastructure / Tools
 
 <p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="34" alt="Docker" title="Docker">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="34" alt="Git" title="Git">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="34" alt="GitHub" title="GitHub">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="34" alt="GitHub Actions" title="GitHub Actions">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="34" alt="Linux" title="Linux">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" height="34" alt="Vercel" title="Vercel">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" title="Docker">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" title="Git">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" title="GitHub">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="40" alt="GitHub Actions" title="GitHub Actions">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" title="Linux">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" height="40" alt="Vercel" title="Vercel">
 </p>
 
 ---

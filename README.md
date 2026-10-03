@@ -18,9 +18,9 @@ lakshmi@sagar:~$ neofetch
   -----------------------
   role       : AI/ML Engineer • Researcher • Developer
   education  : B.Tech CSE (AI/ML) • MITS
-  focus      : ML Systems • LLMs • RAG • Developer Tools
+  focus      : ML Systems • LLMs • RAG • Reliable AI
   shell      : Python • TypeScript • Bash
-  workflow   : Build → Test → Evaluate → Deploy
+  workflow   : Design → Build → Test → Evaluate → Deploy
 </pre>
 
 </div>
@@ -31,17 +31,17 @@ lakshmi@sagar:~$ neofetch
 
 ```text
 I build software at the intersection of machine learning,
-backend engineering, LLM systems and developer tooling.
+backend engineering, LLM systems and reliable data pipelines.
 
 I prefer systems that can be implemented, tested, measured
-and deployed — not just prototypes that stop at a notebook.
+and deployed — with clear boundaries between components.
 
-Current focus:
-  ML systems
-  LLM / RAG pipelines
-  graph reasoning
-  model evaluation
-  developer automation
+Engineering principles:
+  modularity       → isolate responsibilities
+  observability    → make failures diagnosable
+  evaluation       → measure before optimizing
+  security         → minimize trust boundaries
+  maintainability  → keep interfaces explicit
 ```
 
 ---
@@ -57,7 +57,6 @@ Current focus:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="34" alt="Java" title="Java">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="34" alt="C" title="C">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="34" alt="C#" title="C#">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="34" alt="SQL" title="SQL">
 </p>
 
 ### AI / ML
@@ -67,7 +66,7 @@ Current focus:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="34" alt="TensorFlow" title="TensorFlow">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="34" alt="scikit-learn" title="scikit-learn">
 <img src="https://img.shields.io/badge/XGBoost-0D1117?style=flat-square&logo=xgboost&logoColor=F7931E" height="34" alt="XGBoost" title="XGBoost">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/huggingface/huggingface-original.svg" height="34" alt="Hugging Face" title="Hugging Face">
+<img src="https://img.shields.io/badge/Hugging%20Face-0D1117?style=flat-square&logo=huggingface&logoColor=FFD21E" height="34" alt="Hugging Face" title="Hugging Face">
 </p>
 
 ### Frameworks / Backend
@@ -86,7 +85,7 @@ Current focus:
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="34" alt="PostgreSQL" title="PostgreSQL">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="34" alt="Supabase" title="Supabase">
-<img src="https://img.shields.io/badge/SQL%20Server-0D1117?style=flat-square&logo=microsoftsqlserver&logoColor=CC2927" height="34" alt="SQL Server" title="SQL Server">
+<img src="https://img.shields.io/badge/SQL_Server-0D1117?style=flat-square&logo=microsoftsqlserver&logoColor=CC2927" height="34" alt="SQL Server" title="SQL Server">
 </p>
 
 ### Infrastructure / Tools
@@ -108,10 +107,50 @@ Current focus:
 <tr><td><span style="color:#2ea043"><b>[ OK ]</b></span></td><td><b>DNS Tunneling Detector</b></td><td>FastAPI + XGBoost + RandomForest anomaly detection</td></tr>
 <tr><td><span style="color:#d29922"><b>[ BUILDING ]</b></span></td><td><b>SAGE</b></td><td>Supersession-aware graph reasoning and evidence resolution</td></tr>
 <tr><td><span style="color:#d29922"><b>[ BUILDING ]</b></span></td><td><b>TrustRAG-SC</b></td><td>Retrieval, embeddings, PostgreSQL/pgvector and verification</td></tr>
-<tr><td><span style="color:#d29922"><b>[ BUILDING ]</b></span></td><td><b>PatchPilot</b></td><td>Developer automation, test repair and CI/CD analysis</td></tr>
-<tr><td><span style="color:#d29922"><b>[ RESEARCH ]</b></span></td><td><b>ETHOSFORGE</b></td><td>Adaptive fraud detection and federated learning research</td></tr>
 <tr><td><span style="color:#2ea043"><b>[ OK ]</b></span></td><td><b>Mood Journal</b></td><td>Angular + ASP.NET Core application developed during internship</td></tr>
+<tr><td><span style="color:#d29922"><b>[ RESEARCH ]</b></span></td><td><b>ML / LLM Experiments</b></td><td>Model evaluation, local inference, retrieval and agent workflows</td></tr>
 </table>
+
+---
+
+## `./architecture.sh`
+
+```text
+[ Client / Input ]
+        │
+        ▼
+[ API / Application Layer ]
+        │
+        ├──────────────► [ Authentication / Authorization ]
+        │
+        ▼
+[ Domain / Orchestration ]
+        │
+        ├──► [ Retrieval ] ──► [ Embedding / Model Layer ]
+        │
+        ├──► [ Validation ] ──► [ Business Rules ]
+        │
+        └──► [ Evaluation / Verification ]
+                         │
+                         ▼
+                 [ Persistence Layer ]
+                  PostgreSQL / pgvector
+                         │
+                         ▼
+                 [ Evidence / Output ]
+
+Cross-cutting:
+  logging • metrics • tracing • configuration • error handling
+```
+
+### Architecture rules
+
+- **Presentation layer:** HTTP/API contracts, request validation and response serialization.
+- **Application layer:** orchestrates use cases without coupling business logic to infrastructure.
+- **Domain layer:** owns entities, value objects, invariants and deterministic business rules.
+- **Infrastructure layer:** database adapters, model providers, external APIs, queues and storage.
+- **Dependency direction:** outer infrastructure depends on inner abstractions; domain logic remains framework-independent.
+- **Interfaces:** define stable contracts for repositories, model providers, retrievers and evaluators.
 
 ---
 
@@ -129,20 +168,175 @@ Current focus:
 │
 ├── security/
 │   └── DNS-Tunneling-Detector/
-│       ├── FastAPI
-│       ├── XGBoost
-│       └── RandomForest
+│       ├── api/
+│       ├── models/
+│       ├── feature-engineering/
+│       └── evaluation/
 │
 ├── llm-systems/
 │   ├── TrustRAG-SC/
 │   ├── Simple-RAG/
 │   └── Research-Assistant/
 │
-├── developer-tools/
-│   └── PatchPilot/
+└── ml-research/
+    ├── model-evaluation/
+    ├── fraud-detection/
+    └── inference-experiments/
+```
+
+---
+
+## `~/components`
+
+```text
+core/
+├── domain/
+│   ├── entities/
+│   ├── value_objects/
+│   └── policies/
 │
-└── research/
-    └── ETHOSFORGE/
+├── application/
+│   ├── use_cases/
+│   ├── services/
+│   └── ports/
+│
+├── infrastructure/
+│   ├── persistence/
+│   ├── model_adapters/
+│   ├── retrieval/
+│   └── external_services/
+│
+└── interfaces/
+    ├── api/
+    ├── schemas/
+    └── middleware/
+
+tests/
+├── unit/
+├── integration/
+├── contract/
+└── evaluation/
+```
+
+### Component responsibilities
+
+- **Entities:** represent state and enforce invariants.
+- **Use cases:** execute one application-level operation with explicit inputs and outputs.
+- **Ports:** abstract infrastructure dependencies behind testable interfaces.
+- **Adapters:** translate external systems into internal contracts.
+- **Schemas:** validate data at system boundaries.
+- **Middleware:** centralize authentication, correlation IDs, rate limits and error translation.
+- **Evaluation:** verify model quality independently from application correctness.
+
+---
+
+## `./data-flow.sh`
+
+```text
+INPUT
+  │
+  ├── validate ──► reject malformed / unauthorized input
+  │
+  ▼
+PREPROCESS
+  │
+  ├── normalize
+  ├── enrich
+  └── transform
+  │
+  ▼
+PROCESS
+  │
+  ├── retrieve context
+  ├── invoke model / rules
+  └── verify intermediate result
+  │
+  ▼
+PERSIST
+  │
+  ├── store structured state
+  ├── store evidence / metadata
+  └── emit observability events
+  │
+  ▼
+RESPOND
+  │
+  ├── serialize contract
+  ├── expose trace / correlation ID
+  └── return controlled error on failure
+```
+
+### Failure handling
+
+```text
+Expected failure  → typed application error → safe client response
+Dependency failure → timeout / retry policy → fallback or fail closed
+Validation error  → reject at boundary → structured 4xx response
+Unexpected error   → log + trace ID → generic 5xx response
+Model failure      → capture metadata → retry/fallback → preserve audit trail
+```
+
+---
+
+## `./implementation-plan.sh`
+
+```text
+[01] Define contracts
+     └── schemas, interfaces, domain invariants
+
+[02] Build domain core
+     └── entities, policies, deterministic business rules
+
+[03] Implement use cases
+     └── orchestration without infrastructure coupling
+
+[04] Add adapters
+     └── database, retrieval, model and external-service integrations
+
+[05] Add boundary protection
+     └── authentication, validation, rate limits, authorization
+
+[06] Add observability
+     └── structured logs, metrics, traces and correlation IDs
+
+[07] Test progressively
+     └── unit → integration → contract → end-to-end → evaluation
+
+[08] Deploy reproducibly
+     └── containers, CI checks, environment configuration and rollback
+
+[09] Measure and iterate
+     └── latency, reliability, model quality and resource usage
+```
+
+---
+
+## `./security-audit.sh`
+
+```text
+BOUNDARY
+  [ OK ] Validate every external input
+  [ OK ] Authenticate before protected operations
+  [ OK ] Authorize by explicit capability / role
+
+DATA
+  [ OK ] Keep secrets outside source control
+  [ OK ] Parameterize database queries
+  [ OK ] Minimize stored sensitive data
+  [ OK ] Encrypt transport and protected storage
+
+RUNTIME
+  [ OK ] Timeouts on external dependencies
+  [ OK ] Bounded retries with backoff
+  [ OK ] Rate limiting at public boundaries
+  [ OK ] Fail closed for security-critical operations
+
+AI / ML
+  [ OK ] Validate model inputs
+  [ OK ] Track model / dataset versions
+  [ OK ] Separate retrieval from generation
+  [ OK ] Evaluate outputs before production changes
+  [ OK ] Preserve evidence and provenance where required
 ```
 
 ---
@@ -152,18 +346,13 @@ Current focus:
 ```text
 On branch research
 
-modified:
-  graph-reasoning/SAGE
-  llm-systems/TrustRAG-SC
-  developer-tools/PatchPilot
-  ml-research/ETHOSFORGE
-
 working on:
   reliable AI pipelines
   retrieval and verification
   graph reasoning
   model evaluation
-  developer automation
+  backend architecture
+  reproducible deployment
 ```
 
 ---
